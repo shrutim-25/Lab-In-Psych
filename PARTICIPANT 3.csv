@@ -1,0 +1,21 @@
+﻿test_word,Refrence,old_new,test_textbox.text,hit,,,,,
+ta_l_,table,new,table,1,,,,,
+v_s_,vase,new,vase,1,,,,,
+c_m_ra,camera,new,camera,1,,,,,
+bo_t_e,bottle,new,bottle,1,,,,,
+p_nc_l,pencil,new,pencil,1,,,,,
+_oo_,book,old,book,1,,,total,hits,
+_o_rd,board,old,board,1,,old,14,13,0.928571429
+p_li_e,police,old,police,1,,new,5,5,1
+k_y_,keys,old,keys,1,,,,,
+p_st_r,poster,old,poster,1,,,,priming,-0.071428571
+t_hi_t,tshirt,old,tshirt,1,,,,,
+p_str_,pastry,old,pastry,1,,,,,
+c_s_,case,old,case,1,,,,,
+_ho_e,phone,old,,,,,,,
+_ha_t,chart,old,chart,1,,,,,
+_ru_s_,cruise,old,cruise,1,,,,,
+c_s_io_,cushion,old,cushion,1,,,,,
+_o_se,mouse,old,horse,,,,,,
+_a_bl_,marble,old,marble,1,,,,,
+l_pt_p,laptop,old ,laptop,1,,,,,

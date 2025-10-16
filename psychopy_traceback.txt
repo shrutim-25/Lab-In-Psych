@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "C:\Program Files\PsychoPy\lib\site-packages\wx\core.py", line 3427, in <lambda>
+    lambda event: event.callable(*event.args, **event.kw) )
+  File "C:\Program Files\PsychoPy\lib\site-packages\wx\lib\agw\aui\framemanager.py", line 6342, in DoUpdate
+    self.Repaint()
+  File "C:\Program Files\PsychoPy\lib\site-packages\wx\lib\agw\aui\framemanager.py", line 8473, in Repaint
+    client_dc = wx.BufferedDC(wx.ClientDC(self._frame), wx.Size(w, h))
+wx._core.wxAssertionError: C++ assertion "m_buffer && m_buffer->IsOk()" failed at ..\..\src\common\dcbufcmn.cpp(135) in wxBufferedDC::UnMask(): invalid backing store
